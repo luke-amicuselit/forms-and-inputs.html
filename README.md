@@ -1,4 +1,3 @@
-# forms-and-inputs.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,7 +8,7 @@
 
 <!-- action - where the form send data to -->
 <!-- method - what HTTP method (get/post)-->
-		
+
 	<form>
 		<label for="first">First Name:</label>
 			<input name="first" id="first" type="text" placeholder="John" required>
@@ -136,6 +135,8 @@
 			</label>
 	</div>
 		<input type="submit">
+
 	</form> 
+
 </body>
 </html>
